@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xxu3WWQXBX+6LyFDjBnceBtH3QBkJPS9O7WTSF6fFns=",
+  "Source": "sipeka.api",
+  "BasePath": "_content/sipeka.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
